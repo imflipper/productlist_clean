@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "D8E7D853-5EFC-49DC-BC93-7E80B2F52C8C",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:productlist.xcodeproj",
+        "identifier" : "3A57EAF72CDBF2500061BE0D",
+        "name" : "productlistTests"
+      }
+    }
+  ],
+  "version" : 1
+}
